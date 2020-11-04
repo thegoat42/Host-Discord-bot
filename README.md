@@ -1,4 +1,4 @@
-# tutorial-bot
+# ESA'S SLAVE BOT (BETA)
 Discord.js v12 Basic Bot with Basic Bot Commands
 
 YouTube: https://www.youtube.com/channel/UC1zfP7GYvB2LD-49TQcYInQ?view_as=subscriber
